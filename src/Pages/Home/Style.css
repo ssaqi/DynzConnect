@@ -1,0 +1,629 @@
+.fullMain{
+
+       width: "100%";
+       height: 1800px;
+}
+
+
+
+.bgpic{
+     width: "100%";
+     height: 990px;
+     background-image: url(../../Components//Assests/first.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     opacity: 0.9;
+}
+
+.bgpic1{
+    width: "90%";
+    height: 1100px;
+    background-image: url(../../Components//Assests/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.bgpic3{
+    width: "100%";
+    height: 1100px;
+    background-image: url(../../Components//Assests/Thied.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.bgpic4{
+    width: "100%";
+    height: 1200px;
+    background-image: url(../../Components//Assests/forthbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+
+
+.bgpic5{
+    width: "100%";
+    height: 670px;
+    background-image: url(../../Components//Assests/3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+
+.bgpic6{
+    width: "100%";
+    height: 930px;
+    background-image: url(../../Components//Assests/bg6-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    
+}
+
+.bgpic7{
+    width: "100%";
+    height: 520px;
+    background-image: url(../../Components//Assests/playstore.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    
+}
+
+
+.bgpic8{
+    width: "100%";
+    height: 720px;
+    background-image: url(../../Components//Assests/Artboard1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    margin-top: 70px;
+    
+}
+
+
+
+.bgpic9{
+    width: "100%";
+    height: 720px;
+    background-image: url(../../Components//Assests/contact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    margin-top: 70px;
+    
+}
+
+
+.tile4{
+
+       color: #fff;
+       font-size: 65px;
+       font-weight: 700;
+       margin-top: 80px;
+
+}
+
+.pra{
+
+    font-size: 24px;
+    font-weight:700;
+
+}
+
+.pra1{
+
+    font-size: 34px;
+    font-weight:600;
+
+}
+
+.img{
+
+    width: 600px;
+    height:400px;
+   
+}
+
+.MainCon{
+
+    margin-left:195px
+}
+
+ .main{
+
+    margin-top:270px
+ }
+
+
+ 
+.MainCon5{
+
+    margin-left:195px
+}
+
+ .main5{
+
+    margin-top:270px
+ }
+
+
+
+ .main1{
+
+    margin-top:-170px
+ }
+
+ .main2{
+
+    margin-top: 170px;
+    margin-left: -250px;
+ }
+
+ .main3{
+
+    margin-top: 120px
+ }
+
+ .main5{
+
+    margin-top: -110px
+ }
+
+
+ .main4{
+
+    margin-top: 170px;
+
+    margin-left: -250px;
+ }
+
+
+ .MainCon1{
+
+    margin-left:50px
+}
+
+
+.MainCon2{
+
+    margin-left:30px
+}
+
+.MainCon3{
+
+   align-items: center;
+   margin-right: 100px;
+}
+
+.MainCon4{
+
+    
+    margin-right: -50px;
+ }
+
+
+ .img1{
+
+    width: 900px;
+    height:900px;
+    margin-left: -300px;
+}
+
+
+.img2{
+
+    width: 700px;
+    height:800px;
+    margin-left: -400px;
+}
+
+
+
+
+.tile{
+
+       color:"black"
+}
+
+.tile1{
+    
+    font-size: 85px;
+    color:"black";
+    font-weight:600;
+}
+
+
+.tile33{
+    
+    font-size: 85px;
+    color:"black";
+    font-weight:600;
+    margin-top: 220px;
+}
+
+.tile2{
+    
+    font-size: 75px;
+    color:blue;
+    font-weight:700;
+}
+
+
+.tile3{
+    
+    font-size: 75px;
+    color:rgb(215, 90, 140);
+    font-weight:700;
+   
+}
+
+
+.btnn{
+
+      font-weight: 700;
+}
+
+.btnn1{
+
+     margin-left: 320px;
+     margin-top: 90px;
+    font-weight: 500;  
+}
+.crd{
+
+      
+     display: flex;
+     flex-direction: row;
+}
+
+.btnnicon{
+        
+
+        width: 140px;
+        height: 80px;
+        border-radius:50%;
+        margin-right: 20px;
+        border-width: 5px;
+}
+
+
+.iconImg{
+
+
+         width: 150px;
+         height:  150px;
+         background-color: rgb(215, 90, 140);
+         border-radius: 50%;
+         margin-top: -60px;
+        border: solid 10px white;
+}
+
+.mg{
+
+    margin-top: 170px;
+}
+.card{
+     
+       height: 280px;
+      border-radius: 20px;
+      margin-left: 80px;
+}
+.IcnBtn{
+
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      border-width: 3px;
+     border-color: rgb(215, 90, 140);
+
+}
+
+.ttxt{
+
+       font-size: 25px;
+       font-weight: 600;
+}
+
+
+
+.img3{
+
+    width: 900px;
+    height: 1000px;
+    margin-left: 250px;
+    margin-top: -100px;
+}
+
+
+.img4{
+
+    width: 580px;
+    height: 700px;
+    margin-left: 210px;
+    margin-top: -90px;
+}
+
+
+
+.cnd{
+      
+      width: 500px;
+      height: 530px;
+      margin-top: -100px;
+      margin-left: -150px;
+}
+
+
+.cnd1{
+      
+    width: 700px;
+    height: 510px;
+    margin-top: 150px;
+    margin-left: 150px;
+    background-color: #dedede;
+    border-radius: none;
+}
+
+
+
+.img5{
+
+    width: 690px;
+    height: 700px;
+    margin-left: -90px;
+    margin-top: -150px;
+}
+
+
+.samez{
+
+
+      display: flex;
+      flex-direction: row;
+     
+}
+
+.cd{
+
+     background-color: lightgrey;
+     height: 200px;
+}
+.txt1{
+
+       font-size: 88px;
+       font-weight: 700;
+       color: #615c5c;
+       margin-top: -68px;
+       margin-left: -13px;
+}
+.txt2{
+    width: 300px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #000;
+    margin-top: 35px;
+    margin-left: 118px;
+}
+
+.txt3{
+    
+    font-size: 70px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 35px;
+    margin-left: 118px;
+}
+
+.btnn2{
+
+       margin-top: 90px;
+       /* margin-left: 20px; */
+       background-image: url(../../Components//Assests/applelogo.png);
+       width: 180px;
+       height: 60px;
+       background-repeat: no-repeat;
+       background-size: cover;
+}
+
+
+.btnn4{
+
+    margin-top: 90px;
+    margin-left: 10px;
+    background-image: url(../../Components//Assests/googleplay.png);
+    width: 210px;
+    height: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.btnstrt{
+
+       margin-left: -300px;
+       background-color: #fff;
+       color: blue;
+       border-color: blue;
+}
+
+
+.btnn3{
+
+    margin-left: 250px;
+    margin-top: 90px;
+   font-weight: 500;
+}
+
+
+.tile6{
+
+    font-size: 68px;
+    color: #000000;
+    font-weight:650;
+    margin-top: 40px;
+}
+
+
+.text22{
+
+
+       font-weight: 700;
+       font-size: 68px;
+       margin-left: 180px;
+       margin-top: -210px;
+}
+
+
+
+.crdd{
+
+  width: 900px;
+  height: 800px;
+  margin-top: 160px;
+}
+
+.contact{
+
+      width: 750px;
+      height: 80px;
+      background-color: #d3d1d1;
+}
+
+.inp{
+    width: 750px;
+    height: 80px;
+    background-color: #d3d1d1;
+
+}
+
+.inp1{
+    width: 750px;
+    height: 220px;
+    background-color: #d3d1d1;
+
+}
+
+::placeholder{
+
+      color: #484848;
+      font-size: 18px;
+}
+
+
+.inp ::placeholder{
+   margin: 20px;
+}
+
+
+
+.bnDiv{
+
+       width: 400px;
+       height: 50px;
+   
+}
+
+
+    
+@media only screen and (max-width: 600px) {
+    
+   
+    .bgpic{
+
+         height: 500px;
+    }
+
+
+
+    .MainCon{
+
+           margin-left: 10px;
+    }
+
+    .tile{
+
+         font-size: 10px;
+         margin-top: 40px;
+    }
+
+    .main{
+
+          margin-top: 5px;
+    }
+
+    .tile1{
+
+          font-size: 30px;
+          font-weight: 800;
+    }
+    .tile2{
+
+          font-size: 28px;
+    }
+    
+
+    .pra{
+
+          font-size: 15px;
+    }
+
+  }
+
+
+  @media only screen and (max-width: 600px) {
+   
+    .bgpic1{
+
+           width: 400px;
+           height: 1000px;
+           margin: auto;
+    }
+
+
+       .img1{
+
+            width: 260px;
+            height: 260px;
+            margin-left: 15px;
+       }
+       .crd{
+
+             width: 200px;
+            
+       }
+       
+
+       .btnnicon{
+
+            
+        width: 240px;
+        height: 80px;
+        border-radius:50%;
+        margin-right: -10px;
+        border-width: 5px;
+        border-color: #000;
+
+
+       }
+  }
+
+
+
+  
+  @media only screen and (max-width: 600px) {
+
+
+      .bgpic3{
+
+            width: auto
+      }
+
+
+
+  }

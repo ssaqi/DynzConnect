@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.351c88a7.css",
+    "main.js": "/static/js/main.79b9af68.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/first.jpg": "/static/media/first.d70a12e17bf8a21baaa3.jpg",
+    "static/media/4.png": "/static/media/4.c57221124da93039d88b.png",
+    "static/media/3.png": "/static/media/3.ea46120916ef78f8a8b7.png",
+    "static/media/forthbg.jpg": "/static/media/forthbg.90469a6ff669ed57a20d.jpg",
+    "static/media/2.png": "/static/media/2.52444a1d11a4c370ac4c.png",
+    "static/media/7.png": "/static/media/7.205e1ebf99aa68cb6cf5.png",
+    "static/media/playstore.png": "/static/media/playstore.eff55d282efd759d5e15.png",
+    "static/media/footer.png": "/static/media/footer.6824e45bf9f8e34ae7d2.png",
+    "static/media/bg6-2.jpg": "/static/media/bg6-2.9e9c6b1adb0c05e6cb30.jpg",
+    "static/media/Thied.jpg": "/static/media/Thied.4e9d935fc7b93edd16bc.jpg",
+    "static/media/Qrcode.jpg": "/static/media/Qrcode.42e3ca695238e67b533c.jpg",
+    "static/media/slider.png": "/static/media/slider.2c77b9f56e31fb32beb9.png",
+    "static/media/bg2.jpg": "/static/media/bg2.b4dbc4055fa99ecfa909.jpg",
+    "static/media/Artboard1.png": "/static/media/Artboard1.ca9ca0f2a849fc20ecf9.png",
+    "static/media/contact.png": "/static/media/contact.188bd8005c81df81fe67.png",
+    "static/media/logo.jpeg": "/static/media/logo.61adcd4d5b0524bb2f41.jpeg",
+    "index.html": "/index.html",
+    "main.351c88a7.css.map": "/static/css/main.351c88a7.css.map",
+    "main.79b9af68.js.map": "/static/js/main.79b9af68.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351c88a7.css",
+    "static/js/main.79b9af68.js"
+  ]
+}
